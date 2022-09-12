@@ -1,3 +1,5 @@
+import ukiLogo from "./uki-logo.png"
+import yarlItHubLogo from "./yarl-it-hub-logo.png"
 
 export interface Props {
   className?: string
@@ -10,14 +12,14 @@ const Footer = ({ className }: Props) => {
         <div className="w-24 h-36 flex items-center min-w-fit flex-1 sm:flex-none">
           <img
             alt="Yarl IT Hub Logo"
-            src="/yarl-it-hub-logo.png"
+            src={yarlItHubLogo}
             className="h-24"
           />
         </div>
         <div className="w-36 h-36 flex justify-center items-center">
           <img
             alt="Uki Coding School Logo"
-            src="/uki-logo.png"
+            src={ukiLogo}
             className="h-min"
           />
         </div>
