@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kathurshan14.github.io/kathurshan/static/css/main.f48b30d7.css",
-    "main.js": "/kathurshan14.github.io/kathurshan/static/js/main.d977c655.js",
-    "static/js/787.5809834d.chunk.js": "/kathurshan14.github.io/kathurshan/static/js/787.5809834d.chunk.js",
-    "static/media/kathurshan-profile.png": "/kathurshan14.github.io/kathurshan/static/media/kathurshan-profile.a4ae210fdd65121e7d7b.png",
-    "static/media/yarl-it-hub-logo.png": "/kathurshan14.github.io/kathurshan/static/media/yarl-it-hub-logo.81db16c32e7a05320377.png",
-    "static/media/uki-logo.png": "/kathurshan14.github.io/kathurshan/static/media/uki-logo.42b49f3b43fce7c9b177.png",
-    "index.html": "/kathurshan14.github.io/kathurshan/index.html",
-    "main.f48b30d7.css.map": "/kathurshan14.github.io/kathurshan/static/css/main.f48b30d7.css.map",
-    "main.d977c655.js.map": "/kathurshan14.github.io/kathurshan/static/js/main.d977c655.js.map",
-    "787.5809834d.chunk.js.map": "/kathurshan14.github.io/kathurshan/static/js/787.5809834d.chunk.js.map"
+    "main.css": "/kathurshan/static/css/main.f48b30d7.css",
+    "main.js": "/kathurshan/static/js/main.2213b6f7.js",
+    "static/js/787.5809834d.chunk.js": "/kathurshan/static/js/787.5809834d.chunk.js",
+    "static/media/kathurshan-profile.png": "/kathurshan/static/media/kathurshan-profile.a4ae210fdd65121e7d7b.png",
+    "static/media/yarl-it-hub-logo.png": "/kathurshan/static/media/yarl-it-hub-logo.81db16c32e7a05320377.png",
+    "static/media/uki-logo.png": "/kathurshan/static/media/uki-logo.42b49f3b43fce7c9b177.png",
+    "index.html": "/kathurshan/index.html",
+    "main.f48b30d7.css.map": "/kathurshan/static/css/main.f48b30d7.css.map",
+    "main.2213b6f7.js.map": "/kathurshan/static/js/main.2213b6f7.js.map",
+    "787.5809834d.chunk.js.map": "/kathurshan/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f48b30d7.css",
-    "static/js/main.d977c655.js"
+    "static/js/main.2213b6f7.js"
   ]
 }
