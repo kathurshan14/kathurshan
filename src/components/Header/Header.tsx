@@ -1,5 +1,6 @@
 import clsx from 'clsx'
 import LanguageSwitch from './LanguageSwitch'
+import ThemeSwitch from './ThemeSwitch'
 
 
 
@@ -12,9 +13,10 @@ const Header = ({ className }: Props) => {
     <div
       className={clsx(
         className,
-        'container flex mx-auto px-4 pt-4 sm:pt-6 pb-8'
+        'flex mx-auto px-4 pt-4 sm:pt-6 pb-8 justify-between'
       )}
     >
+      <ThemeSwitch/>
       <LanguageSwitch/>
     </div>
   )

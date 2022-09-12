@@ -1,6 +1,6 @@
 import clsx from "clsx";
-import Title from "../Title";
-import Avatar from "./Avatar/avatar";
+import Title from "./Title";
+import Avatar from "./Avatar";
 import Typed from "react-typed";
 import { useTranslation } from "react-i18next";
 
